@@ -23,3 +23,28 @@ The script supports the following command line options:
 
 - `message`  |        Specifies the message to be encrypted or decrypted.
             Enclose the message in quotes if it contains spaces or special characters.
+
+
+# Running the Script
+
+Use the following command format to run the script:
+
+**Encrypting a message:**
+
+```bash
+python caesar_cipher.py -m encrypt -s 3 "Hello, World!"
+```
+
+**Decrypting a message:**
+
+```bash
+python caesar_cipher.py -m decrypt -s 3 "Khoor, Zruog!"
+```
+
+# Acknowledgements
+
+- Inspired by the Caesar Cipher
+  encryption technique.
+  
+- Utilizes Python's `argparse` library
+  for command-line argument parsing.
