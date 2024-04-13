@@ -7,4 +7,4 @@ This is a Python script that provides encryption and decryption using the Caesar
 ### Installation
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/caesar-cipher.git
+   git clone https://github.com/Prashanth-0/PRODIGY-INFOTECH-INTERN.git
