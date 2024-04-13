@@ -13,13 +13,13 @@ This is a Python script that provides encryption and decryption using the Caesar
 ### Command Line Options
 The script supports the following command line options:
 
-```bash
--m, --mode     Specifies the mode of operation.
+
+- `-m,` `--mode`     Specifies the mode of operation.
             encrypt: Encrypts the message using the Caesar Cipher.
             decrypt: Decrypts the message using the Caesar Cipher.
 
--s, --shift    Specifies the shift value (a number between 1 and 25).
+- `-s,` `--shift`    Specifies the shift value (a number between 1 and 25).
             Example: -s 3 (Shift the characters by 3 positions).
 
-message        Specifies the message to be encrypted or decrypted.
+- `message|        Specifies the message to be encrypted or decrypted.
             Enclose the message in quotes if it contains spaces or special characters.
