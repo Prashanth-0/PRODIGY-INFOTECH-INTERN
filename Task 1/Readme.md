@@ -25,7 +25,7 @@ The script supports the following command line options:
             Enclose the message in quotes if it contains spaces or special characters.
 
 
-# Running the Script
+## Running the Script
 
 Use the following command format to run the script:
 
@@ -41,7 +41,7 @@ python caesar_cipher.py -m encrypt -s 3 "Hello, World!"
 python caesar_cipher.py -m decrypt -s 3 "Khoor, Zruog!"
 ```
 
-# Acknowledgements
+## Acknowledgements
 
 - Inspired by the Caesar Cipher
   encryption technique.
