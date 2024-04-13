@@ -21,5 +21,5 @@ The script supports the following command line options:
 - `-s,` `--shift`    Specifies the shift value (a number between 1 and 25).
             Example: -s 3 (Shift the characters by 3 positions).
 
-- `message|        Specifies the message to be encrypted or decrypted.
+- `message`  |        Specifies the message to be encrypted or decrypted.
             Enclose the message in quotes if it contains spaces or special characters.
